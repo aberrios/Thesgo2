@@ -1,0 +1,51 @@
+1) Players:
+	- Nick (Steam)
+	- Nombre
+	- Edad
+	- Arma
+	- Rol
+	- Ciudad
+	- Pais
+	- Disponibilidad
+	- Matchmaking Rank
+	- Faceit/ESEA
+	- Email
+
+2) Team:
+	- Nombre
+	- Tag
+	- Cupos
+	- Pais
+	- Requisitos:
+		- Disponibilidad
+		- Roles disponibles
+		- ¿Edad?
+		- Matchmaking Rank
+		- Faceit/ESEA
+	- Email
+
+Coach:
+	- Nick (Steam)
+	- Nombre
+	- Edad
+	- Disponibilidad
+	- Matchmaking Rank
+	- Faceit/ESEA
+	- Email
+
+Amistoso:
+	- Nombre team
+	- Mapa/s
+
+Perfil de usuario:
+	- Nick (Steam)*
+	- Nombre*
+	- Fecha de nacimiento
+	- Ciudad
+	- Pais*
+	- Matchmaking Rank
+	- Link to FACEIT Profile
+	- Link to ESEA Profile
+	- Email*
+	- Arma
+	- Disponibilidad
